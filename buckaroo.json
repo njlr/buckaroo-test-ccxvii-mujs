@@ -2,6 +2,6 @@
   "name": "buckaroo-test-ccxvii-mujs",
   "dependencies": {
     "google/gtest": "1.8.0",
-    "ccxvii/mujs": "1.11.0"
+    "ccxvii/mujs": "0.0.1"
   }
 }
